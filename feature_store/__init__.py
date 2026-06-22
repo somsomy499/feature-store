@@ -1,0 +1,1 @@
+from .store import FeatureStore\n__version__ = "1.0.0"\n
